@@ -1,0 +1,9 @@
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.exe.config
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.exe
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.pdb
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.csprojResolveAssemblyReference.cache
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.Form1.resources
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.Properties.Resources.resources
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.csproj.GenerateResource.Cache
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.exe
+c:\users\x3rv1th\documents\visual studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.pdb
